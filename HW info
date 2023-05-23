@@ -1,0 +1,15 @@
+IN HWGenetici.txt se regasesc urmatoarele informatii pe linii diferite:
+
+• Dimensiunea populației (numărul de cromozomi)
+• Domeniul de definiție al funcției (capetele unui interval închis)
+• Parametrii pentru funcția de maximizat (coeficienții polinomului
+de grad 2)
+• Precizia cu care se lucrează (cu care se discretizează intervalul)
+• Probabilitatea de recombinare (crossover, încrucișare)
+• Probabilitatea de mutație
+• Numărul de etape al algoritmuluiui
+
+In consola se pot identifica urmatoarele informatii prin CTRL Find:
+MAXIM FITNESS
+MEAN FITNESS
+Populatia
